@@ -1,5 +1,6 @@
-![bannerDanilly](https://github.com/user-attachments/assets/06e661dd-a15b-4ecc-8847-ee7681c4425c)
-![bannerDanilly2](https://github.com/user-attachments/assets/40759fd4-dfff-4864-81ae-f102dc58d613)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/06e661dd-a15b-4ecc-8847-ee7681c4425c" alt="bannerDanilly" width="70%">
+</p>
 
 <p align="right">Welcome to my GitHub profile!! 👋</p>
 
