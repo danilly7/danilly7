@@ -2,8 +2,6 @@
 
 <p align="right">Welcome to my GitHub profile!! 👋</p>
 
-<br>
-
 ## 😊 About me
 - My name is **Danilly**, but you can call me **Dani**. 
 - I am a **Front-End Developer** with a focus on **React**.
