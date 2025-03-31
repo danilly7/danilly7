@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9d092a63-efed-4b81-8b08-b83b4101542f" alt="bannerDanilly" width="100%">
-</p>
+![bannerDanilly5](https://github.com/user-attachments/assets/c66cefaa-ef43-4222-a693-6e3be7c79674)
 
 ## 😊 About me
 - My name is **Danilly**, but you can call me **Dani**. 
