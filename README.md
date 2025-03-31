@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/06e661dd-a15b-4ecc-8847-ee7681c4425c" alt="bannerDanilly" width="70%">
 </p>
 
-<p align="right">Welcome to my GitHub profile!! 👋</p>
+<p align="center">Welcome to my GitHub profile!! 👋</p>
 
 ## 😊 About me
 - My name is **Danilly**, but you can call me **Dani**. 
