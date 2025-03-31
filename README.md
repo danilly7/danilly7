@@ -2,8 +2,6 @@
   <img src="https://github.com/user-attachments/assets/9d092a63-efed-4b81-8b08-b83b4101542f" alt="bannerDanilly" width="100%">
 </p>
 
-<p align="center">Welcome to my GitHub profile!! 👋</p>
-
 ## 😊 About me
 - My name is **Danilly**, but you can call me **Dani**. 
 - I am a **Front-End Developer** with a focus on **React**.
