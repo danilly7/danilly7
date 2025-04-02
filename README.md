@@ -16,7 +16,7 @@
   - Frontend: React, TypeScript, Tailwind CSS, React Router, Context API
   - Tools & APIs: Vite, Firebase (Auth), Postman
 
-[🔗 View Repository](https://github.com/danilly7/money-mgr) | [🚀 View Live](https://money-mgr-orcin.vercel.app/)
+[🔗 View Repository](https://github.com/danilly7/money-mgr) 
 
 
 <br>
