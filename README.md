@@ -26,6 +26,16 @@
  
 <br>
 
+## 🎯 My soft skills
+
+[![Teamwork](https://img.shields.io/badge/Teamwork_&_Collaboration-8A2BE2?style=for-the-badge)](https://github.com/danilly7)
+[![Problem-Solving](https://img.shields.io/badge/Problem_Solving_Mindset-4BC0D9?style=for-the-badge)](https://github.com/danilly7)
+[![Leadership](https://img.shields.io/badge/Organization_&_Leadership-FF7F50?style=for-the-badge)](https://github.com/danilly7)
+[![Communication](https://img.shields.io/badge/Effective_Communication-32CD32?style=for-the-badge)](https://github.com/danilly7)
+[![Customer](https://img.shields.io/badge/Customer_Centered_Approach-DAA520?style=for-the-badge)](https://github.com/danilly7)
+
+<br>
+
 ## 📬 Contact me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danillycondori/)  [![Email](https://img.shields.io/badge/Email-danilly7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danilly7@gmail.com)
